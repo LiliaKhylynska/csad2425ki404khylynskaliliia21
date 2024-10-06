@@ -9,3 +9,5 @@ Server part should execute on HW. SW as a client.
 Student number 21
 Game config tik-tac-toe
 format INI
+
+CY8CKIT-042 PSoC® 4 Pioneer Kit, C++
