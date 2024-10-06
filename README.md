@@ -10,4 +10,5 @@ Student number 21
 Game config tik-tac-toe
 format INI
 
-CY8CKIT-042 PSoC® 4 Pioneer Kit, C++
+Hardware: CY8CKIT-042 PSoC® 4 Pioneer Kit
+Programing Language: C++
